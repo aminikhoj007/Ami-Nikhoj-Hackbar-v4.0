@@ -8,4 +8,4 @@
 
 # What is use Ami.Nikhoj Hackbar
 #
-# http://ami-nikhoj.rf.gd 
+# http://ami-nikhoj.rf.gd/How-To-Use-Ami-Nikhoj-Hackbar/index.html
